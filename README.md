@@ -32,7 +32,7 @@ MVTextField
   <div><b>TextFieldDidEndEditBlock</b> - Which is called while textfield end editing.
   <div><b>TextDidChangeBlock</b> - Which is called while textfield charcater change.
   
-  <h2>Whom use this?</h2>
+  <h2>Who need this?</h2>
   <div>1. Who's need money format entry in text field (like 124.98)?
   <div>2. Who's need to restrict the number of character entry?
   <div>3. Whom wants to integrate custom keyboard into the text field?
