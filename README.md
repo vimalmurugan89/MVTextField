@@ -19,7 +19,11 @@ MVTextField
   <h2>MVKeyBoardType</h2>
   <div>This is custom keyboard for your specific field</div>
   <div><b>MVNumberKeyBoardType</b> - It shows custom keyboard which is created by me.
-  
+  <br>
+
+   ![Custom Keyboard](https://raw.github.com/vimalmurugan89/MVTextField/master/KeyBoard.gif)
+
+   <br>
   <h2>MVTextField text margin adjust</h2>
   <div>1. Use <b>marginValue</b> property to adjust the text from left side.
   
